@@ -19,6 +19,7 @@
 - `specs/community/` - verified canonical spec and `match` verdict for an Aquarius constant-product pool, XLM/AQUA (`CCY2PXGM...IFWV`).
 - `specs/community/` - verified canonical spec and `match` verdict for the Comet BLND:USDC pool (`CAS3FL6T...VEAM`).
 - `specs/community/` - verified canonical spec and `match` verdict for the Allbridge Core USDC pool (`CAOTMWRK...PNFT`).
+- `specs/community/` - verified canonical spec and `match` verdict for the Axelar Gateway (`CD6VSKXB...X6NF`).
 
 ## [0.2.0] - 2026-09-23
 
